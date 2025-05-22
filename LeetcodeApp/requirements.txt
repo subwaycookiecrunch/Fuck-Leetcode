@@ -1,0 +1,7 @@
+pyperclip==1.8.2
+pillow==10.0.0
+pytesseract==0.3.10
+keyboard==0.13.5
+numpy==1.24.3
+opencv-python==4.8.0.74
+requests==2.31.0 
